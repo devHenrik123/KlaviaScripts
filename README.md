@@ -1,2 +1,2 @@
 # KlaviaScripts
-Contains some useful script for Klavia.
+Contains some useful scripts for Klavia.
